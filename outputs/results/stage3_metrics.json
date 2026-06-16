@@ -1,0 +1,11 @@
+{
+  "model": "CNN-LSTM",
+  "f1": 0.6301,
+  "recall": 0.6133,
+  "precision": 0.6479,
+  "mcc": 0.567,
+  "roc_auc": 0.8952,
+  "best_epoch": 63,
+  "sequence_len": 30,
+  "horizon": 7
+}
